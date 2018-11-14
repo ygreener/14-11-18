@@ -1,0 +1,7 @@
+C:\Users\yair.g\source\repos\hw4\hw4\bin\Debug\hw4.exe.config
+C:\Users\yair.g\source\repos\hw4\hw4\bin\Debug\hw4.exe
+C:\Users\yair.g\source\repos\hw4\hw4\bin\Debug\hw4.pdb
+C:\Users\yair.g\source\repos\hw4\hw4\obj\Debug\1.csprojAssemblyReference.cache
+C:\Users\yair.g\source\repos\hw4\hw4\obj\Debug\1.csproj.CoreCompileInputs.cache
+C:\Users\yair.g\source\repos\hw4\hw4\obj\Debug\hw4.exe
+C:\Users\yair.g\source\repos\hw4\hw4\obj\Debug\hw4.pdb

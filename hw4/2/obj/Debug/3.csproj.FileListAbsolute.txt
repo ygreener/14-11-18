@@ -1,0 +1,7 @@
+C:\Users\yair.g\source\repos\hw4\2\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\yair.g\source\repos\hw4\2\bin\Debug\2.exe.config
+C:\Users\yair.g\source\repos\hw4\2\bin\Debug\2.exe
+C:\Users\yair.g\source\repos\hw4\2\bin\Debug\2.pdb
+C:\Users\yair.g\source\repos\hw4\2\obj\Debug\3.csprojAssemblyReference.cache
+C:\Users\yair.g\source\repos\hw4\2\obj\Debug\2.exe
+C:\Users\yair.g\source\repos\hw4\2\obj\Debug\2.pdb
